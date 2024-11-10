@@ -30,8 +30,8 @@ I'm a software engineer and entrepreneur from 🇨🇦 Toronto, focusing on buil
 📕 **Latest Blog Posts**
 
 - [AI + AWS CDK: Simplifying Infrastructure Management](https://khrystynych.com/blog/6-ai-aws-cdk)
-- [Thoughts on Component Architecture](https://khrystynych.com/blog/5-component-architecture)
-- [NgRx: Handling API State](https://khrystynych.com/blog/4-ngrx-api-state)
+- [Thoughts on Component Architecture](https://khrystynych.com/blog/4-component-architecture)
+- [NgRx: Handling API State](https://khrystynych.com/blog/3-ngrx-api-state)
 
 💡 **Technical Expertise**
 
