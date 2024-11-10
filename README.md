@@ -29,10 +29,9 @@ I'm a software engineer and entrepreneur from 🇨🇦 Toronto, focusing on buil
 
 📕 **Latest Blog Posts**
 
-- [AI + AWS CDK: Simplifying Infrastructure Management](https://khrystynych.vercel.app/blog/7-ai-aws-cdk)
-- [Joint Account Card Migration Solution Design](https://khrystynych.vercel.app/blog/6-solution-design)
-- [Thoughts on Component Architecture](https://khrystynych.vercel.app/blog/5-component-architecture)
-- [NgRx: Handling API State](https://khrystynych.vercel.app/blog/4-ngrx-api-state)
+- [AI + AWS CDK: Simplifying Infrastructure Management](https://khrystynych.com/blog/6-ai-aws-cdk)
+- [Thoughts on Component Architecture](https://khrystynych.com/blog/5-component-architecture)
+- [NgRx: Handling API State](https://khrystynych.com/blog/4-ngrx-api-state)
 
 💡 **Technical Expertise**
 
