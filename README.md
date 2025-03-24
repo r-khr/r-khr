@@ -9,6 +9,12 @@ I'm a software engineer and entrepreneur from 🇨🇦 Toronto, focusing on buil
 
 🚀 **Recent Projects**
 
+- [CryptoRabbit.net](https://cryptorabbit.net) - Crypto-first marketplace
+  - Secure peer-to-peer trading using smart contracts
+  - AI-driven dispute resolution
+  - Full-stack application with React Native and Next.js
+  - GraphQL API with Apollo Server and Prisma ORM
+
 - [Appointment Prep AI](https://appointmentprep.com) - Multi-agent system for professional appointment preparation
   - Advanced conversational AI for appointment context analysis
   - Audio transcription and analysis pipeline
@@ -20,12 +26,6 @@ I'm a software engineer and entrepreneur from 🇨🇦 Toronto, focusing on buil
   - Multi-agent system for pet care recommendations
   - Automated meal planning system
   - Personalized veterinary and insurance support
-
-- [CryptoRabbit.net](https://cryptorabbit.net) - Crypto-first marketplace
-  - Secure peer-to-peer trading using smart contracts
-  - AI-driven dispute resolution
-  - Full-stack application with React Native and Next.js
-  - GraphQL API with Apollo Server and Prisma ORM
 
 📕 **Latest Blog Posts**
 
