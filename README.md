@@ -1,50 +1,37 @@
 ### 👋 Hello, I'm Roman Khrystynych
 
-I'm a software engineer and entrepreneur from 🇨🇦 Toronto, focusing on building scalable solutions at the intersection of AI, blockchain, and user-centric applications.
+Software engineer and founder of **[Khrystynych Innovations Inc](https://khrystynych.com)** — a boutique AI and Web3 consultancy based in 🇨🇦 Toronto. We help teams design, build, and ship production-grade AI and on-chain systems — no hype, no black boxes, just systems your team can understand, extend, and own.
 
-- 🔭 Building innovative solutions with AI and blockchain technology
-- 💻 Specialized in full-stack development with React, TypeScript, and AI integration
-- 🛠️ Creating secure and efficient platforms that solve real-world problems
-- 🌱 Currently working on AI-powered appointment preparation and pet care platforms
+- 🔭 Turning promising AI and on-chain prototypes into reliable production systems
+- 🤖 Multimodal RAG, agentic workflows, and LLM evaluation
+- ⛓️ Smart contracts and integrations on Ethereum (EVM) and Solana (Anchor)
+- 🛠️ Product engineering and hands-on AI training for engineering teams
 
-🚀 **Recent Projects**
+🧰 **What We Do**
 
-- [CryptoRabbit.net](https://cryptorabbit.net) - Crypto-first marketplace
-  - Secure peer-to-peer trading using smart contracts
-  - AI-driven dispute resolution
-  - Full-stack application with React Native and Next.js
-  - GraphQL API with Apollo Server and Prisma ORM
+- **Product Engineering** — web, backend, and integrations for ambitious products
+- **AI Automation** — agents and workflows that replace repetitive work, with humans in the loop
+- **Multimodal RAG** — grounded answers over text, images, audio, and video, with evals you own
+- **AI Training** — tailored workshops and pairing for engineers new to LLMs, RAG, and agents
+- **Web3 & Crypto** — escrow, marketplace, and settlement contracts with monitoring and audit prep
 
-- [Appointment Prep AI](https://appointmentprep.com) - Multi-agent system for professional appointment preparation
-  - Advanced conversational AI for appointment context analysis
-  - Audio transcription and analysis pipeline
-  - Dynamic question generation system
-  - Secure medical information handling
+📕 **Latest Writing**
 
-- [Pet Portal AI](https://petportal.ai) - AI-powered platform for pet owners
-  - Subscription management with Stripe integration
-  - Multi-agent system for pet care recommendations
-  - Automated meal planning system
-  - Personalized veterinary and insurance support
-
-📕 **Latest Blog Posts**
-
-- [AI + AWS CDK: Simplifying Infrastructure Management](https://khrystynych.com/blog/6-ai-aws-cdk)
-- [Thoughts on Component Architecture](https://khrystynych.com/blog/4-component-architecture)
-- [NgRx: Handling API State](https://khrystynych.com/blog/3-ngrx-api-state)
+- [Smart Contracts vs. the Double-Entry Ledger](https://khrystynych.com/blog/smart-contracts-vs-double-entry-ledger)
+- [CryptoRabbit: System Architecture of a Crypto-Native Marketplace](https://khrystynych.com/blog/cryptorabbit-architecture)
+- [Designing an Escrow Contract for a Crypto Marketplace](https://khrystynych.com/blog/escrow-contract-design)
+- [How to Think About Agents](https://khrystynych.com/blog/thinking-about-agents)
+- [What I Learned Building Agents for Multi-Agent Systems](https://khrystynych.com/blog/building-multi-agent-systems)
 
 💡 **Technical Expertise**
 
+- AI/ML: Multimodal RAG, agents and tool use, evaluation harnesses, observability
+- Web3: Solidity (EVM), Rust/Anchor (Solana), wallets, indexers, threat modeling
 - Frontend: React, TypeScript, Next.js
 - Backend: Node.js, GraphQL, PostgreSQL
-- Cloud: AWS, Serverless Architecture
-- AI/ML: Multi-agent Systems, Natural Language Processing
-- Blockchain: Smart Contracts, DeFi Protocols
+- Cloud: AWS, Serverless, CDK
 
-🔗 **Connect With Me**
+🔗 **Connect**
 
-- [GitHub](https://github.com/r-khr)
-- [LinkedIn](https://linkedin.com/in/romankhrystynych)
-- Portfolio: [khrystynych.com](https://khrystynych.com)
-
-This README highlights your experience with AI and blockchain while showcasing your recent projects and technical expertise. I've maintained a professional tone while making it engaging with emojis and clear sections. Would you like me to adjust anything about the format or content?
+- Consultancy: [khrystynych.com](https://khrystynych.com) · [Get in touch](https://khrystynych.com/contact)
+- [GitHub](https://github.com/r-khr) · [LinkedIn](https://linkedin.com/in/romankhrystynych) · [X](https://x.com/r_khr)
