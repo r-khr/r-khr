@@ -1,13 +1,13 @@
 ### 👋 Hello, I'm Roman Khrystynych
 
-Software engineer and founder of **[Khrystynych Innovations Inc](https://khrystynych.com)** — a boutique AI and Web3 consultancy based in 🇨🇦 Toronto. We help teams design, build, and ship production-grade AI and on-chain systems — no hype, no black boxes, just systems your team can understand, extend, and own.
+I'm a software engineer and developer based in 🇨🇦 Toronto. On the side, I run **[Khrystynych Innovations Inc](https://khrystynych.com)** — a boutique AI and Web3 consultancy helping teams design, build, and ship production-grade AI and on-chain systems.
 
-- 🔭 Turning promising AI and on-chain prototypes into reliable production systems
-- 🤖 Multimodal RAG, agentic workflows, and LLM evaluation
+- 🔭 Building production systems at the intersection of AI, Web3, and pragmatic software engineering
+- 🤖 Working on multimodal RAG, agentic workflows, and LLM evaluation
 - ⛓️ Smart contracts and integrations on Ethereum (EVM) and Solana (Anchor)
-- 🛠️ Product engineering and hands-on AI training for engineering teams
+- 🌱 Always learning — currently digging deeper into evals and on-chain settlement
 
-🧰 **What We Do**
+🧰 **Consultancy Services** (via Khrystynych Innovations Inc)
 
 - **Product Engineering** — web, backend, and integrations for ambitious products
 - **AI Automation** — agents and workflows that replace repetitive work, with humans in the loop
